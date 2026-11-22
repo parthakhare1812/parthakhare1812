@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/parthakhare1812?style=social" />
   <img src="https://img.shields.io/github/stars/parthakhare1812?style=social" />
-  <img src="https://img.shields.io/github/last-commit/parthakhare1812/ResearchSense-AI?label=last%20commit&color=blueviolet" />
+  <img src="https://img.shields.io/github/last-commit/parthakhare1812/ParthaGPT-AI-OS?label=last%20commit&color=blueviolet" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 I build RAG applications, agentic AI workflows, and the FastAPI backends that put them in front of users, backed by a solid DSA foundation.
 
-- 🔭 **Currently building:** [ResearchSense AI](https://github.com/parthakhare1812/ResearchSense-AI), a RAG research platform (FastAPI + NiceGUI)
+- 🔭 **Currently building:** ResearchSense AI, a RAG research platform (FastAPI + NiceGUI)
 - 🧠 **Focus areas:** RAG & vector search, agentic / multi-agent systems, LLM apps, backend engineering
 - 🧮 **DSA:** 870+ LeetCode problems solved, rating 1480
 - 🌱 **Learning:** reliable agent design, advanced RAG architectures, MLOps
@@ -82,17 +82,13 @@ I build RAG applications, agentic AI workflows, and the FastAPI backends that pu
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/parthakhare1812/ResearchSense-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parthakhare1812&repo=ResearchSense-AI&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/parthakhare1812/ParthaGPT-AI-OS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parthakhare1812&repo=ParthaGPT-AI-OS&theme=tokyonight&hide_border=true" /></a>
-</p>
-<p align="center">
   <a href="https://github.com/parthakhare1812/DriveLegal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parthakhare1812&repo=DriveLegal&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Technocolabs100/InsightCare-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocolabs100&repo=InsightCare-AI&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔎 **[ResearchSense AI](https://github.com/parthakhare1812/ResearchSense-AI)** | RAG research platform with document ingestion, retrieval, and synthesis for grounded Q&A over research papers | FastAPI, NiceGUI, RAG |
+| 🔎 **ResearchSense AI** | RAG research platform with document ingestion, retrieval, and synthesis for grounded Q&A over research papers | FastAPI, NiceGUI, RAG |
 | 📦 **[pydoc-ai](https://pypi.org/project/pydoc-ai/)** *(PyPI)* | Open-source CLI that parses Python ASTs and uses LLMs to generate docstrings, with CI/CD | Python, LLM, Poetry, GitHub Actions |
 | 🤖 **[ParthaGPT](https://github.com/parthakhare1812/ParthaGPT-AI-OS)** | Multi-agent AI assistant with semantic memory, reflective reasoning, and RAG | Python, Streamlit, ChromaDB, Groq API |
 | 🛡️ **Aegis AI** | Multi-agent planning framework combining reinforcement learning, graph optimization, and genetic algorithms | Python, RL, Graph Algorithms |
