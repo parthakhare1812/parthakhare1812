@@ -1,11 +1,24 @@
-<h1 align="center">Hi, I'm Partha Khare 👋</h1>
-<h3 align="center">Building AI Products, Not Just Models | RAG • Agentic AI • LLM Apps | Python + FastAPI</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Partha%20Khare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20Apps&descAlignY=60&descSize=18" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parthakhare1812&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/partha-khare-1115b131b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="mailto:parthakhare7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://pypi.org/project/pydoc-ai/"><img src="https://img.shields.io/badge/PyPI-pydoc--ai-3775A9?logo=pypi&logoColor=white" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Products%2C+Not+Just+Models;RAG+%E2%80%A2+Agentic+AI+%E2%80%A2+LLM+Apps;Python+%2B+FastAPI+Backend+Engineer;870%2B+LeetCode+Problems+Solved;Open-Source+Author+on+PyPI" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parthakhare1812&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <a href="https://linkedin.com/in/partha-khare-1115b131b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:parthakhare7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://pypi.org/project/pydoc-ai/"><img src="https://img.shields.io/badge/PyPI-pydoc--ai-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/parthakhare1812?style=social" />
+  <img src="https://img.shields.io/github/stars/parthakhare1812?style=social" />
+  <img src="https://img.shields.io/github/last-commit/parthakhare1812/ResearchSense-AI?label=last%20commit&color=blueviolet" />
 </p>
 
 ---
@@ -68,6 +81,15 @@ I build RAG applications, agentic AI workflows, and the FastAPI backends that pu
 
 ### 🚀 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/parthakhare1812/ResearchSense-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parthakhare1812&repo=ResearchSense-AI&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/parthakhare1812/ParthaGPT-AI-OS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parthakhare1812&repo=ParthaGPT-AI-OS&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/parthakhare1812/DriveLegal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parthakhare1812&repo=DriveLegal&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Technocolabs100/InsightCare-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocolabs100&repo=InsightCare-AI&theme=tokyonight&hide_border=true" /></a>
+</p>
+
 | Project | Description | Stack |
 |---|---|---|
 | 🔎 **[ResearchSense AI](https://github.com/parthakhare1812/ResearchSense-AI)** | RAG research platform with document ingestion, retrieval, and synthesis for grounded Q&A over research papers | FastAPI, NiceGUI, RAG |
@@ -120,12 +142,28 @@ I build RAG applications, agentic AI workflows, and the FastAPI backends that pu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parthakhare1812&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthakhare1812&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parthakhare1812&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthakhare1812&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=parthakhare1812&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parthakhare1812&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthakhare1812&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+### 🧮 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karla&ext=heatmap" />
 </p>
 
 ---
@@ -137,4 +175,8 @@ Looking for AI/ML and Software Engineering internships, research collaborations,
 <p align="center">
   <a href="https://linkedin.com/in/partha-khare-1115b131b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:parthakhare7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
 </p>
